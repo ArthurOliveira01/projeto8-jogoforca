@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.forca img{
+    width:  400px;
+    height: 466.67px;
+    margin-top: 7.032181168%;
+}
+
+.start-game{
+    border-radius: 8px;
+    width: 200px;
+    height: 60px;
+    margin-left: 32.58536585%;
+    margin-top: 10.60786651%;
+    background-color: #27AE60;
+    color: #FFFFFF;
+}
