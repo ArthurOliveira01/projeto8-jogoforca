@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Righteous&family=Roboto:ital,wght@0,100;0,400;0,700;1,400;1,700&display=swap');
 
 body{
     width: 100%;
@@ -9,6 +9,7 @@ body{
     display: flex;
     justify-content: center;
 }
+
 
 .forca img{
     width:  400px;
@@ -31,6 +32,16 @@ body{
     line-height: 23.44px;
     font-weight: 700;
     border-color: #27AE60;
+}
+
+.underscore{
+    font-family: Noto Sans;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 68px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
 }
 
 .letters{
@@ -56,3 +67,8 @@ body{
     margin-top: 70.33px;
     margin-bottom: 11px;
 }
+
+button:hover {
+    cursor: pointer;
+}
+
